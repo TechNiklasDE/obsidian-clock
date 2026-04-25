@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-clock",
+	"name": "Obsidian Clock",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Weltuhr, Timer, Pomodoro, Stoppuhr und Wecker direkt im Vault",
+	"author": "Niklas Weinmann",
+	"isDesktopOnly": false
+}

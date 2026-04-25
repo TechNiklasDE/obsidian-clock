@@ -1,0 +1,12 @@
+{
+  "worldCities": [
+    "Europe/Berlin",
+    "UTC",
+    "America/Port-au-Prince",
+    "Pacific/Port_Moresby",
+    "Australia/Sydney",
+    "Europe/Kiev"
+  ],
+  "pomodoroWork": 25,
+  "pomodoroBreak": 5
+}
